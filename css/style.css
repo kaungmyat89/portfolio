@@ -121,13 +121,24 @@ h6, .h6 {
   color: #fff;
 }
 
-a {
+/*a {
   color: #000;
   transition: all .25s ease;
 }
 
 a:hover {
   color: #f44336;
+  text-decoration: none;
+  outline: none;
+}*/
+
+a {
+  color: blue;
+  transition: all .25s ease;
+}
+
+a:hover {
+  color: #17a2b8;
   text-decoration: none;
   outline: none;
 }
