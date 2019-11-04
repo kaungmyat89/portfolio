@@ -156,7 +156,8 @@ a:hover {
 }
 
 .text-color {
-  color: #f44336;
+/*  color: #f44336;*/
+  color: blue;
 }
 
 .page-title h1 {
